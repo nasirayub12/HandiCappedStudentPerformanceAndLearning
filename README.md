@@ -3,8 +3,11 @@ This data was collected at Air University, Islamabad, Pakistan, specifically foc
 a detailed explanation of each column in the dataset:
 
 StudentID: A unique identifier assigned to each student.
+
 department: The academic department or major in which the student is enrolled (e.g., Biology, Psychology, Business Administration, Engineering).
+
 gender: The gender of the student (e.g., Male, Female).
+
 address: The type of residence the student comes from (e.g., Urban, Rural).
 admission_status: Indicates whether the student has been admitted or not (e.g., Admitted, Not Admitted).
 aboriginal: Binary indicator (0 or 1) specifying whether the student is of aboriginal descent.
